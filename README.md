@@ -1,2 +1,2 @@
 # movies--Land
-react native movie store app
+react movie store app
